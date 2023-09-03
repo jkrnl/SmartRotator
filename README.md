@@ -2,6 +2,16 @@
 ## Alternative Ham Radio Antenna rotator solution using stepper motor and mobile phone
 by **HA2KJ Kornel**
 
+Features:
+- Use your phone/PC to control the rotator via your home Wifi (no control box, or control cables to your tower)
+- OTA remote software upadate (to avoid climbing up to update)
+- No step loss solution (due to close loop stepper, driver detecs & compensat any step losses)
+- NEMA34 closed loop stepper motor with encoder (actual heading/position always known)
+- High torque to handle light HF yagies (to have same performance like Yaesu-G450)
+- No break but worm gear
+- Open-source sofwtare
+- options to integrate with CAT, logger, QRZ.com etc
+
 <img src="https://github.com/jkrnl/SmartRotator/assets/8505408/39155ac8-3fd7-4df8-8c10-ba27a944535c" alt="Description of the image" width="25%" height="25%" />
 
 [![How it works](http://img.youtube.com/vi/JGU_2wNbqKw/0.jpg)](http://www.youtube.com/watch?v=JGU_2wNbqKw)
