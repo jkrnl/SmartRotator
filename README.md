@@ -6,6 +6,9 @@ by **HA2KJ Kornel**
 
 [![How it works](http://img.youtube.com/vi/JGU_2wNbqKw/0.jpg)](http://www.youtube.com/watch?v=JGU_2wNbqKw)
 
+# Wiring diagram:
+TBD
+
 # BOM/Bill of materials:
 
 <img src="https://github.com/jkrnl/SmartRotator/assets/8505408/6a7df095-2662-4e30-a4ee-b5bc9c76f0d1" alt="Description of the image" width="25%" height="25%" />
