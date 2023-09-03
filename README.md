@@ -6,7 +6,7 @@ by HA2KJ
 ![image](https://github.com/jkrnl/SmartRotator/assets/8505408/1342a6a2-6adf-4990-89f7-f71092e78e60)
 ![image](https://github.com/jkrnl/SmartRotator/assets/8505408/417efbe4-c1f2-484b-b368-53f60a15dd60)
 
-<span style="font-family:Papyrus; font-size:6em;">**You can purchase it here:** </span> [NMRV-050 Gearbox Worm Gear Reducer with 80:1 ratio Nema34 25mm shaft](https://s.click.aliexpress.com/e/_DChrQoJ)
+> **You can purchase it here:**  [NMRV-050 Gearbox Worm Gear Reducer with 80:1 ratio Nema34 25mm shaft](https://s.click.aliexpress.com/e/_DChrQoJ)
 
 
 ![image](https://github.com/jkrnl/SmartRotator/assets/8505408/3b5c95f4-237f-4711-bb27-9198f26ba8f9)
