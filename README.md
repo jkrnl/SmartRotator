@@ -13,7 +13,7 @@ by **HA2KJ Kornel**
 - No break but worm gear (NMRV-050 80:1 gear ration to be slow enough and utilize highest torque RPM range of the motor, price: 107 EUR incl. 15 days shipping)
 - About 1min full turn time (can turn much faster if needed)
 - Cheap and widely available ESP32 microcontroller board (~6 EUR)
-- Cheaper than commercial grade rotators  (~ 300 EUR)
+- Cheaper than commercial grade rotators  (less than 300 EUR)
 - Open-source software
 - Options to integrate with CAT, logger, QRZ.com etc
 
