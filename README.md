@@ -71,4 +71,4 @@ the higher voltage the better due to lesser current and heat
 
 <img src="https://github.com/jkrnl/SmartRotator/assets/8505408/799ced59-1af3-4a2d-921a-00c3eb9ae5f5" alt="Description of the image" width="25%" height="25%" /> 
 
-> **Purchase it here:**  [Switching power supply 48V 100W]([https://s.click.aliexpress.com/e/_DCcbU7d](https://s.click.aliexpress.com/e/_DeyV1OX)https://s.click.aliexpress.com/e/_DeyV1OX)
+> **Purchase it here:**  [Switching power supply 48V 100W](https://s.click.aliexpress.com/e/_DDFLYbH)
