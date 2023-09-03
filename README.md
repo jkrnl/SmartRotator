@@ -46,7 +46,8 @@ by **HA2KJ Kornel**
 <br><br><br>
 
 ##  ESP32 board
-   
+- WROOM32D has built in Wifi antenna (supports 802.11n up to 150Mbps)
+
 <img src="https://github.com/jkrnl/SmartRotator/assets/8505408/abc7aad0-71b6-4be4-bac6-16c67cfdecd2" alt="Description of the image" width="25%" height="25%" />
 <img src="https://github.com/jkrnl/SmartRotator/assets/8505408/49148c66-7abb-444e-bc2f-9c51919af53e" alt="Description of the image" width="25%" height="25%" />
 
@@ -56,6 +57,7 @@ by **HA2KJ Kornel**
 
 <br><br><br>
 ## 4channel 5V <-> 3.3V level shifter
+- ESP has 3.3V line levels but HSS86 Driver demands 5V inputs and outputs so a bidirectional shifter needed
 <img src="https://github.com/jkrnl/SmartRotator/assets/8505408/8565e90f-7512-4579-8288-7dc705be7795" alt="Description of the image" width="25%" height="25%" /> 
 
 > **Purchase it here:**  [4channel 5V <-> 3.3V level shifter](https://s.click.aliexpress.com/e/_DCcbU7d)
