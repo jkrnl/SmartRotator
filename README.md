@@ -2,6 +2,10 @@
 ## Alternative Ham Radio Antenna rotator solution using stepper motor and mobile phone
 by **HA2KJ Kornel**
 
+<img src="https://github.com/jkrnl/SmartRotator/assets/8505408/8505408/39155ac8-3fd7-4df8-8c10-ba27a944535c" alt="Description of the image" width="25%" height="25%" />
+
+
+# BOM/Bill of materials:
 
 <img src="https://github.com/jkrnl/SmartRotator/assets/8505408/6a7df095-2662-4e30-a4ee-b5bc9c76f0d1" alt="Description of the image" width="25%" height="25%" />
 <img src="https://github.com/jkrnl/SmartRotator/assets/8505408/1342a6a2-6adf-4990-89f7-f71092e78e601" alt="Description of the image" width="25%" height="25%" />
