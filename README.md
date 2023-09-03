@@ -4,6 +4,7 @@ by **HA2KJ Kornel**
 
 ## Features:
 - Use your phone/PC to control the rotator via your home Wifi (no control box, or control cables to your tower)
+- Web application runs in web browser, no installation needed
 - OTA remote software upadate (to avoid climbing up to update)
 - No step loss solution (due to close loop stepper, driver detecs & compensat any step losses)
 - NEMA34 closed loop stepper motor with encoder 8.5Nm (actual heading/position always known)
