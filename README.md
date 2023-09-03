@@ -8,7 +8,7 @@ by **HA2KJ Kornel**
 - OTA remote software upadate (to avoid climbing up to update)
 - No step loss solution (due to close loop stepper, driver detecs & compensat any step losses)
 - NEMA34 closed loop stepper motor with encoder 8.5Nm (actual heading/position always known, price 124 EUR incl. 15 days shipping)
-- High torque to handle light HF yagies (to have same performance like Yaesu-G450)
+- High torque to handle light HF yagies (to have same performance characteristics like Yaesu-G450)
 - Motor to run at highest-torque RPM (~90-100 RPM)
 - No break but worm gear (NMRV-050 80:1 gear ration to be slow enough and utilize highest torque RPM range of the motor, price: 107 EUR incl. 15 days shipping)
 - About 1min full turn time (can turn much faster if needed)
