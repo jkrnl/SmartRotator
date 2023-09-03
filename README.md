@@ -3,7 +3,7 @@
 by **HA2KJ Kornel**
 
 
-<img src="/jkrnl/SmartRotator/assets/8505408/6a7df095-2662-4e30-a4ee-b5bc9c76f0d1" alt="Description of the image" width="25%" height="25%" />
+<img src="https://github.com/jkrnl/SmartRotator/assets/8505408/6a7df095-2662-4e30-a4ee-b5bc9c76f0d1" alt="Description of the image" width="25%" height="25%" />
 
 
 ![image](https://github.com/jkrnl/SmartRotator/assets/8505408/6a7df095-2662-4e30-a4ee-b5bc9c76f0d1)
