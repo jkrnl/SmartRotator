@@ -4,15 +4,16 @@ by **HA2KJ Kornel**
 
 ## Features:
 - Use your phone/PC to control the rotator via your home Wifi (no control box, or control cables to your tower)
-- Web application runs in web browser, no installation needed
+- Web application runs in web browser, no installation needed (ESP32 hosts the intranet website)
 - OTA remote software upadate (to avoid climbing up to update)
 - No step loss solution (due to close loop stepper, driver detecs & compensat any step losses)
-- NEMA34 closed loop stepper motor with encoder 8.5Nm (actual heading/position always known)
+- NEMA34 closed loop stepper motor with encoder 8.5Nm (actual heading/position always known, price 124 EUR incl. 15 days shipping)
 - High torque to handle light HF yagies (to have same performance like Yaesu-G450)
 - Motor to run at highest-torque RPM (~90-100 RPM)
-- No break but worm gear (80:1 to be slow enough and utilize highest torque RPM range of the motor)
+- No break but worm gear (NMRV-050 80:1 gear ration to be slow enough and utilize highest torque RPM range of the motor, price: 107 EUR incl. 15 days shipping)
 - About 1min full turn time (can turn much faster if needed)
-- Cheaper than commercial grade rotators
+- Cheap and widely available ESP32 microcontroller board (~6 EUR)
+- Cheaper than commercial grade rotators  (~ 300 EUR)
 - Open-source software
 - Options to integrate with CAT, logger, QRZ.com etc
 
