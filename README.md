@@ -8,11 +8,12 @@ Features:
 - No step loss solution (due to close loop stepper, driver detecs & compensat any step losses)
 - NEMA34 closed loop stepper motor with encoder 8.5Nm (actual heading/position always known)
 - High torque to handle light HF yagies (to have same performance like Yaesu-G450)
-- motor run at highest-torque RPM (~90-100 RPM)
+- Motor to run at highest-torque RPM (~90-100 RPM)
 - No break but worm gear (80:1 to be slow enough and utilize highest torque RPM range of the motor)
-- about 1min full turn time (can turn much faster if needed)
+- About 1min full turn time (can turn much faster if needed)
+- Cheaper than commercial grade rotators
 - Open-source software
-- options to integrate with CAT, logger, QRZ.com etc
+- Options to integrate with CAT, logger, QRZ.com etc
 
 <img src="https://github.com/jkrnl/SmartRotator/assets/8505408/39155ac8-3fd7-4df8-8c10-ba27a944535c" alt="Description of the image" width="25%" height="25%" />
 
