@@ -7,7 +7,7 @@ by **HA2KJ Kornel**
 [![How it works](http://img.youtube.com/vi/JGU_2wNbqKw/0.jpg)](http://www.youtube.com/watch?v=JGU_2wNbqKw)
 
 # Wiring diagram:
-TBD
+> TBD
 
 # BOM/Bill of materials:
 
