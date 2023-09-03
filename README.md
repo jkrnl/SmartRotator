@@ -64,10 +64,9 @@ by **HA2KJ Kornel**
 
 <br><br><br>
 ## Power supply
-24-110V **DC** or 18-80V **AC**!
-Pick any 100W model, prefer toroid over switching to mitigate RF noise issues   
-the higher voltage the better due to lesser current and heat   
-(My setup consumes only 20-30 Watts)   
+- 24-110V **DC** or 18-80V **AC**!
+- Pick any 100W model, prefer toroid over switching to mitigate RF noise issues   (My setup consumes only 20-30 Watts)   
+- the higher voltage the better due to lesser current and heat  
 
 <img src="https://github.com/jkrnl/SmartRotator/assets/8505408/799ced59-1af3-4a2d-921a-00c3eb9ae5f5" alt="Description of the image" width="25%" height="25%" /> 
 
