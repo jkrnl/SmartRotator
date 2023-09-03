@@ -3,7 +3,7 @@
 by **HA2KJ Kornel**
 
 <img src="https://github.com/jkrnl/SmartRotator/assets/8505408/39155ac8-3fd7-4df8-8c10-ba27a944535c" alt="Description of the image" width="25%" height="25%" />
-[![How it works](http://img.youtube.com/vi/JGU_2wNbqKw/0.jpg)](http://www.youtube.com/watch?v=JGU_2wNbqKw)
+[![How it works](http://img.youtube.com/vi/JGU_2wNbqKw/0.jpg)](http://www.youtube.com/watch?v=JGU_2wNbqKw)]
 
 # BOM/Bill of materials:
 
